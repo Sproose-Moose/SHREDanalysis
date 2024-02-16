@@ -1,6 +1,7 @@
 #Project SHRED 2024
 #Author: (c) Seth Gerow, Embry-Riddle Aeronautical University
 #email: gerows@my.erau.edu
+# HELLO SETH IM TESTING THE PUSH
 import pandas as pd
 
 def getdate(df): #this function pulls the calendar day in format: month day, year from a Shred data excel file
